@@ -1,2 +1,2 @@
-# BoardingPatternsInPublicTransportWithKMeamsClustering
+# Boarding Patterns In Public Transport With K-Meams Clustering
 In this project, ways of clustering boarding patterns were investigated. By making some primary analyzes of the given data, a strategy was tried to be developed to cluster them. In the given data set, there is information about how many people use public transport daily. In addition, there is information about which lines are used and boarding time. The aim of this project is to relate these data to each other and to obtain meaningful results.
